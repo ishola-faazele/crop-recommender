@@ -72,11 +72,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ishola-faazele/crop-recommendation-system.git
+   git clone https://github.com/ishola-faazele/crop-recommender.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd crop-recommendation-system
+   cd crop-recommender
    ```
 3. **Install dependencies**:
    ```bash
