@@ -1,8 +1,3 @@
-# crop-recommender
-Sure! Here’s a comprehensive README for your crop recommendation system project:
-
----
-
 # Crop Recommendation System
 
 ## Overview
